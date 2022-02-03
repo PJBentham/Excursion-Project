@@ -1,7 +1,16 @@
 html {
     background-color: black;
+    text-align: center;
+    font-family: Verdana;
 }
 
-h1 {
+header h1 {
     color: white;
+    font-size: 50px;
 }
+
+header a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
